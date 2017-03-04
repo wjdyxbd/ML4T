@@ -7,5 +7,5 @@ Machine Learning for Trading: The automatic trader
 </p>
 <p align="center">
   <img src="./Train_IBM.jpg" width="350"/>
-  <img src="./portfolia_SPX.jpg" width="350"/>
+  <img src="./portfolio_SPX.jpg" width="350"/>
 </p>
